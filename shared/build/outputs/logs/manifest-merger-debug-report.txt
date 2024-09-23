@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml:2:13-83
+INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml:2:13-83
+	package
+		INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml
+	xmlns:android
+		ADDED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml:2:23-81
+uses-sdk
+INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml reason: use-sdk injection requested
+INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml
+INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml
+	android:minSdkVersion
+		INJECTED from /Users/tejasalsi/Development/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9465224943095390047.xml

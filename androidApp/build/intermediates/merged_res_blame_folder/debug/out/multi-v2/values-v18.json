@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tejas.multiplatform.dailypulse.android.androidApp-mergeDebugResources-55:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tejasalsi/.gradle/caches/transforms-3/34e92b2a6fb70c91f4157ff08cd9d49d/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

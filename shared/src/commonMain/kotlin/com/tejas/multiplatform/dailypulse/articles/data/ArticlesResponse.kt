@@ -1,0 +1,41 @@
+package com.tejas.multiplatform.dailypulse.articles.data
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class ArticlesResponse(
+    @SerialName("articles")
+    val articles: List<ArticlesRaw>,
+    @SerialName("status")
+    val status: String?,
+    @SerialName("totalResults")
+    val totalResults: Int?
+) {
+    @Serializable
+    data class Article(
+        @SerialName("author")
+        val author: String?,
+        @SerialName("content")
+        val content: String?,
+        @SerialName("description")
+        val description: String?,
+        @SerialName("publishedAt")
+        val publishedAt: String?,
+        @SerialName("source")
+        val source: Source?,
+        @SerialName("title")
+        val title: String?,
+        @SerialName("url")
+        val url: String?,
+        @SerialName("urlToImage")
+        val urlToImage: String?
+    ) {
+        @Serializable
+        data class Source(
+            @SerialName("id")
+            val id: String?,
+            @SerialName("name")
+            val name: String?
+        )
+    }
+}
